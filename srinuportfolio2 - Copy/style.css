@@ -1,0 +1,321 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-image {
+    height: 60px;
+    border-radius: 8px;
+    transition: all 0.3s ease-in-out;
+}
+
+.navbar-image:hover {
+    outline-color: blue;
+    height: 70px;
+}
+
+#Navitem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+
+}
+
+#Navitem1:hover {
+    font-size: 20px;
+    color: #97989A;
+    font-family: "Roboto";
+    text-decoration: underline;
+    transition: ease-in-out 0s;
+
+}
+
+#Navitem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+
+}
+
+#Navitem2:hover {
+    font-size: 20px;
+    color: #97989A;
+    font-family: "Roboto";
+    text-decoration: underline;
+    transition: ease-in-out 0s;
+
+}
+
+#Navitem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+
+}
+
+#Navitem3:hover {
+    font-size: 20px;
+    color: #97989A;
+    font-family: "Roboto";
+    text-decoration: underline;
+    transition: ease-in-out 0s;
+
+}
+
+#Navitem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+
+}
+
+#Navitem4:hover {
+    font-size: 20px;
+    color: #97989A;
+    font-family: "Roboto";
+    text-decoration: underline;
+    transition: ease-in-out 0s;
+
+}
+
+
+
+.element {
+    color: green;
+}
+
+.image {
+
+    border-radius: 16px;
+}
+
+.image1 {
+    border-radius: 30px;
+    height: 200px;
+    width: 200px;
+}
+
+
+.image:hover {
+    transition: 0.3s ease-in-out;
+    padding: 10px;
+    border-radius: 16px;
+    background: linear-gradient(to right, #ff00ff, #00ffff);
+}
+
+.anchor {
+    font-size: 20px;
+}
+
+.line {
+    color: black;
+}
+
+.contact-form-container {
+    text-align: center;
+}
+
+#button {
+    background-color: orange;
+    color: #fff;
+    width: 150px;
+    border-radius: 16px;
+    border: none;
+}
+
+.head {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+    font-family: bree Serif;
+
+}
+
+
+.para {
+    color: black;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 200px;
+}
+
+.element2 {
+    color: black;
+    font-weight: 200px;
+    font-size: 30px;
+}
+
+#image {
+    height: 300px;
+    border-radius: 16px;
+}
+
+#carousel {
+    margin: 50px;
+}
+
+#button {
+    background-color: black;
+    color: #fff;
+    width: 140px;
+    border-radius: 16px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    padding: 10px;
+}
+
+#button:hover {
+    color: black;
+    background-color: transparent;
+    border: 2px black solid;
+    padding: 15px;
+    width: 150px;
+}
+
+#button1 {
+    background-color: #87878A;
+    color: #fff;
+    width: 140px;
+    border-radius: 16px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    padding: 10px;
+}
+
+#button1:hover {
+    color: black;
+    background-color: #fff;
+    border: 2px black solid;
+    padding: 5px;
+    width: 150px;
+    transition: transform 0.5s ease;
+    transform: rotate(360deg);
+}
+
+#name {
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+#name:hover {
+    background-color: white;
+    color: black;
+    outline-color: red;
+}
+
+#email {
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+#email:hover {
+    background-color: white;
+    color: black;
+    outline-color: black 2px;
+}
+
+#message {
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#message:hover {
+    background-color: white;
+    color: black;
+    outline-color: black 2px;
+    cursor: pointer;
+}
+
+.image {
+    height: 200px;
+    width: 200px;
+}
+
+
+
+.image2 {
+    height: 50px;
+
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.head1 {
+    color: black;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.skill {
+    border: 2px #87878A solid;
+    border-radius: 16px;
+
+}
+
+.head2 {
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+}
+
+.head3 {
+    font-size: 18px;
+}
+
+.element3 {
+    color: black;
+}
+
+.element3:hover {
+    color: #87878A;
+    text-decoration: underline;
+    padding: 5px;
+}
+
+.contact-section {
+    border: 2px solid #87878A;
+    border-radius: 12px;
+    margin: 20px;
+    padding: 15px;
+}
+
+.aboutme {
+    border: 2px solid #87878A;
+    border-radius: 16px;
+}
+
+
+
+
+
+.section {
+    text-align: center;
+}
+
+.head {
+    font-size: 20px;
+
+}
+
+.button {
+    background: linear-gradient(45deg, #ff512f, #dd2476, #12c2e9);
+    border: none;
+    border-radius: 50px;
+    width: 150px;
+    margin: 10px;
+    color: white;
+}
+
+.button:hover {
+    background: rgba(255, 255, 255, 0.2);
+    border: none;
+    border-radius: 50px;
+    width: 150px;
+    color: black;
+}
+
+.certificates {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 38px;
+    font-weight: 700;
+    font-family: bree Serif;
+}
